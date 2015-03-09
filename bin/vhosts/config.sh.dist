@@ -1,0 +1,5 @@
+#!/bin/bash
+hosts_path="/etc/hosts"
+httpd_vhosts_path="/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf"
+web_root="/Users/joe/Dropbox/Web Development/Websites/"
+

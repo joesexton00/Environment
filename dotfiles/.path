@@ -1,0 +1,5 @@
+PATH=/Applications/xampp/xamppfiles/bin:$PATH
+PATH=/Applications/xampp/xamppfiles/lib/drush:$PATH
+PATH=~/bin:$PATH
+PHP_AUTOCONF=/usr/local/autoconf:$PHP_AUTOCONF
+PATH=~/.composer/vendor/bin:$PATH

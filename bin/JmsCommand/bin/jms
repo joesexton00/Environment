@@ -1,0 +1,40 @@
+#!/usr/bin/env php
+<?php
+/**
+ * JMS console command
+ * This package provides utility applications wrapped in a Symfony console application
+ *
+ * @package JMS Command
+ */
+require __DIR__ . '/../vendor/autoload.php';
+
+use Symfony\Component\Console\Application;
+use Symfony\Component\Finder\Finder;
+
+define('APPLICATION_NAME', 'JMS Command Line Tools');
+define('APPLICATION_VERSION', 1.0);
+define('SOURCE_DIR', __DIR__ . '/../src/');
+define('FILE_PATTERN', '*Command.php');
+
+$app = new Application(APPLICATION_NAME, APPLICATION_VERSION);
+
+$finder = new Finder();
+$finder->files()->name(FILE_PATTERN)->in(SOURCE_DIR);
+
+// Load all commands
+foreach($finder as $file) {
+    if ($relativePath = $file->getRelativePath()) {
+        $ns = strtr($relativePath, '/', '\\');
+    }
+
+    $r = new \ReflectionClass($ns.'\\'.$file->getBasename('.php'));
+    if (
+        $r->isSubclassOf('Symfony\\Component\\Console\\Command\\Command')
+        && !$r->isAbstract()
+        && !$r->getConstructor()->getNumberOfRequiredParameters()
+    ) {
+        $app->add($r->newInstance());
+    }
+}
+
+$app->run();
