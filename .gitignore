@@ -1,0 +1,20 @@
+# OSX files
+.DS_Store
+._*
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# IDE Project Files
+.nbproject
+*.iml
+*.ipr
+*.iws
+.idea/
+.classpath
+.project
