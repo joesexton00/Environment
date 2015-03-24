@@ -7,7 +7,7 @@ function provisionDotFiles() {
     local bin_dir="$(myrealpath $(pwd)/../bin)";
     local dotfiles_dir="$(myrealpath $(pwd)/../dotfiles)";
 
-    for file in .{aliases,bash_profile,bash_prompt,bashrc,exports,extra,functions,gitconfig,inputrc,wgetrc}; do
+    for file in .{aliases,bash_profile,bash_prompt,bashrc,exports,functions,gitconfig,inputrc,wgetrc}; do
         if [ -L ~/$file ]; then
             echo "Unlinking ~/$file"
             unlink ~/$file;
