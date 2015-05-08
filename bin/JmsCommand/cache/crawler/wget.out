@@ -1,0 +1,4241 @@
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:52--  http://www.webtipblog.com/
+Resolving www.webtipblog.com... 50.87.146.64
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:53 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:54:53--  http://www.webtipblog.com/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:53 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/index.html’
+
+     0K .......... .......... .......... ..                    67.4K=0.5s
+
+2015-05-08 15:54:54 (67.4 KB/s) - ‘www.webtipblog.com/index.html’ saved [33189]
+
+Removing www.webtipblog.com/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/website-thumbnail.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:54 GMT
+  Content-Type: image/png
+  Content-Length: 132453
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:47:57 GMT
+  Accept-Ranges: bytes
+Length: 132453 (129K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/website-thumbnail.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/favicon.ico
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:54 GMT
+  Content-Type: image/x-icon
+  Content-Length: 1150
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:54:32 GMT
+  Accept-Ranges: bytes
+Length: 1150 (1.1K) [image/x-icon]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/favicon.ico.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-144x144-precomposed.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:54 GMT
+  Content-Type: image/png
+  Content-Length: 7707
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:51:59 GMT
+  Accept-Ranges: bytes
+Length: 7707 (7.5K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-144x144-precomposed.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-114x114-precomposed.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:54 GMT
+  Content-Type: image/png
+  Content-Length: 5835
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:51:58 GMT
+  Accept-Ranges: bytes
+Length: 5835 (5.7K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-114x114-precomposed.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-72x72-precomposed.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:54 GMT
+  Content-Type: image/png
+  Content-Length: 3796
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:52:00 GMT
+  Accept-Ranges: bytes
+Length: 3796 (3.7K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-72x72-precomposed.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-57x57-precomposed.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:54 GMT
+  Content-Type: image/png
+  Content-Length: 3079
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:51:59 GMT
+  Accept-Ranges: bytes
+Length: 3079 (3.0K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/fav-icons/apple-touch-icon-57x57-precomposed.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:54--  http://www.webtipblog.com/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:55 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:54:55--  http://www.webtipblog.com/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:55 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/page/2/index.html’
+
+     0K .......... .......... .........                        95.1K=0.3s
+
+2015-05-08 15:54:56 (95.1 KB/s) - ‘www.webtipblog.com/page/2/index.html’ saved [30126]
+
+Removing www.webtipblog.com/page/2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=2.6.9
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/css
+  Content-Length: 20136
+  Connection: keep-alive
+  Last-Modified: Wed, 11 Feb 2015 02:49:15 GMT
+  Accept-Ranges: bytes
+Length: 20136 (20K) [text/css]
+Remote file exists but does not contain any link -- not retrieving.
+
+www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=2.6.9.css: No such file or directory
+Removing www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=2.6.9.css.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/themes/tomorrow-night/tomorrow-night.css?ver=2.6.9
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/css
+  Content-Length: 4838
+  Connection: keep-alive
+  Last-Modified: Wed, 11 Feb 2015 02:49:15 GMT
+  Accept-Ranges: bytes
+Length: 4838 (4.7K) [text/css]
+Remote file exists but does not contain any link -- not retrieving.
+
+www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/themes/tomorrow-night/tomorrow-night.css?ver=2.6.9.css: No such file or directory
+Removing www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/themes/tomorrow-night/tomorrow-night.css?ver=2.6.9.css.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=2.6.9
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/css
+  Content-Length: 529
+  Connection: keep-alive
+  Last-Modified: Wed, 11 Feb 2015 02:49:15 GMT
+  Accept-Ranges: bytes
+Length: 529 [text/css]
+Remote file exists but does not contain any link -- not retrieving.
+
+www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=2.6.9.css: No such file or directory
+Removing www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/fonts/monaco.css?ver=2.6.9.css.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/css/normalize.css?ver=alpha
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/css
+  Content-Length: 10445
+  Connection: keep-alive
+  Last-Modified: Tue, 27 Aug 2013 01:52:13 GMT
+  Accept-Ranges: bytes
+Length: 10445 (10K) [text/css]
+Remote file exists but does not contain any link -- not retrieving.
+
+www.webtipblog.com/wp-content/themes/webtipblog/assets/css/normalize.css?ver=alpha.css: No such file or directory
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/css/normalize.css?ver=alpha.css.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/css/bootstrap.min.css?ver=4.1.5
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/css
+  Content-Length: 97339
+  Connection: keep-alive
+  Last-Modified: Sun, 01 Sep 2013 15:12:39 GMT
+  Accept-Ranges: bytes
+Length: 97339 (95K) [text/css]
+Remote file exists but does not contain any link -- not retrieving.
+
+www.webtipblog.com/wp-content/themes/webtipblog/assets/css/bootstrap.min.css?ver=4.1.5.css: No such file or directory
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/css/bootstrap.min.css?ver=4.1.5.css.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/css/main.css?ver=alpha
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/css
+  Content-Length: 10464
+  Connection: keep-alive
+  Last-Modified: Wed, 11 Feb 2015 02:44:21 GMT
+  Accept-Ranges: bytes
+Length: 10464 (10K) [text/css]
+Remote file exists but does not contain any link -- not retrieving.
+
+www.webtipblog.com/wp-content/themes/webtipblog/assets/css/main.css?ver=alpha.css: No such file or directory
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/css/main.css?ver=alpha.css.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=2.6.9
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: application/javascript
+  Content-Length: 22333
+  Connection: keep-alive
+  Last-Modified: Wed, 11 Feb 2015 02:49:15 GMT
+  Accept-Ranges: bytes
+Length: 22333 (22K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/plugins/crayon-syntax-highlighter/js/min/crayon.min.js?ver=2.6.9.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:56--  http://www.webtipblog.com/php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:56 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:54:56--  http://www.webtipblog.com/php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:57 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/php/index.html’
+
+     0K .......... .......... ........                         70.3K=0.4s
+
+2015-05-08 15:54:57 (70.3 KB/s) - ‘www.webtipblog.com/php/index.html’ saved [29438]
+
+Removing www.webtipblog.com/php/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:57--  http://www.webtipblog.com/tag/symfony/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:58 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:54:58--  http://www.webtipblog.com/tag/symfony/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:58 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/symfony/index.html’
+
+     0K .......... .......... ........                         54.2K=0.5s
+
+2015-05-08 15:54:59 (54.2 KB/s) - ‘www.webtipblog.com/tag/symfony/index.html’ saved [28970]
+
+Removing www.webtipblog.com/tag/symfony/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:54:59--  http://www.webtipblog.com/tag/wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:54:59 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:54:59--  http://www.webtipblog.com/tag/wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/wordpress/index.html’
+
+     0K .......... .......... .........                        68.6K=0.4s
+
+2015-05-08 15:55:00 (68.6 KB/s) - ‘www.webtipblog.com/tag/wordpress/index.html’ saved [29732]
+
+Removing www.webtipblog.com/tag/wordpress/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:00--  http://www.webtipblog.com/download-entire-website-using-wget-linux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:01 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=606>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:01--  http://www.webtipblog.com/download-entire-website-using-wget-linux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:01 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=606>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/download-entire-website-using-wget-linux/index.html’
+
+     0K .......... .......... ......                            165K=0.2s
+
+2015-05-08 15:55:01 (165 KB/s) - ‘www.webtipblog.com/download-entire-website-using-wget-linux/index.html’ saved [26725]
+
+Removing www.webtipblog.com/download-entire-website-using-wget-linux/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:01--  http://www.webtipblog.com/uncategorized/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:02 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:02--  http://www.webtipblog.com/uncategorized/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:02 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/uncategorized/index.html’
+
+     0K .......... ....                                        64.3K=0.2s
+
+2015-05-08 15:55:02 (64.3 KB/s) - ‘www.webtipblog.com/uncategorized/index.html’ saved [14880]
+
+Removing www.webtipblog.com/uncategorized/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:02--  http://www.webtipblog.com/tag/linux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:03 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:03--  http://www.webtipblog.com/tag/linux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:03 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/linux/index.html’
+
+     0K .......... ..                                          76.0K=0.2s
+
+2015-05-08 15:55:04 (76.0 KB/s) - ‘www.webtipblog.com/tag/linux/index.html’ saved [13157]
+
+Removing www.webtipblog.com/tag/linux/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:04--  http://www.webtipblog.com/exposing-configuration-symfony-2-bundles/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:04 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=593>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:04--  http://www.webtipblog.com/exposing-configuration-symfony-2-bundles/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:05 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=593>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/exposing-configuration-symfony-2-bundles/index.html’
+
+     0K .......... .......... .......... .......... ..........  193K
+    50K .......... .......... .......... .                      658K=0.3s
+
+2015-05-08 15:55:05 (265 KB/s) - ‘www.webtipblog.com/exposing-configuration-symfony-2-bundles/index.html’ saved [83203]
+
+Removing www.webtipblog.com/exposing-configuration-symfony-2-bundles/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:05--  http://www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:05 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=578>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:05--  http://www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:06 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=578>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/index.html’
+
+     0K .......... .......... .......... .......... .....       203K=0.2s
+
+2015-05-08 15:55:06 (203 KB/s) - ‘www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/index.html’ saved [46110]
+
+Removing www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:06--  http://www.webtipblog.com/tag/authentication/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:07 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:07--  http://www.webtipblog.com/tag/authentication/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:07 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/authentication/index.html’
+
+     0K .......... .......... ...                              60.8K=0.4s
+
+2015-05-08 15:55:07 (60.8 KB/s) - ‘www.webtipblog.com/tag/authentication/index.html’ saved [23771]
+
+Removing www.webtipblog.com/tag/authentication/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:07--  http://www.webtipblog.com/tag/forms/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:08 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:08--  http://www.webtipblog.com/tag/forms/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:08 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/forms/index.html’
+
+     0K .......... .......... .......                          54.3K=0.5s
+
+2015-05-08 15:55:09 (54.3 KB/s) - ‘www.webtipblog.com/tag/forms/index.html’ saved [27657]
+
+Removing www.webtipblog.com/tag/forms/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:09--  http://www.webtipblog.com/tag/security/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:09 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:09--  http://www.webtipblog.com/tag/security/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:10 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/security/index.html’
+
+     0K .......... ......                                      52.7K=0.3s
+
+2015-05-08 15:55:10 (52.7 KB/s) - ‘www.webtipblog.com/tag/security/index.html’ saved [17199]
+
+Removing www.webtipblog.com/tag/security/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:10--  http://www.webtipblog.com/preventing-sql-injection-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:11 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:11--  http://www.webtipblog.com/preventing-sql-injection-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:11 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/preventing-sql-injection-php/index.html’
+
+     0K .......... .......... .......... ......                 143K=0.3s
+
+2015-05-08 15:55:11 (143 KB/s) - ‘www.webtipblog.com/preventing-sql-injection-php/index.html’ saved [36928]
+
+Removing www.webtipblog.com/preventing-sql-injection-php/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:11--  http://www.webtipblog.com/wp-content/uploads/2014/09/sql_injection.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:11 GMT
+  Content-Type: image/png
+  Content-Length: 15472
+  Connection: keep-alive
+  Last-Modified: Tue, 02 Sep 2014 02:05:50 GMT
+  Accept-Ranges: bytes
+Length: 15472 (15K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/09/sql_injection.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:11--  http://www.webtipblog.com/bash-script-create-apache-virtual-hosts/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:12 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=552>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:12--  http://www.webtipblog.com/bash-script-create-apache-virtual-hosts/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:13 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=552>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/bash-script-create-apache-virtual-hosts/index.html’
+
+     0K .......... .......... .......... .......... ..........  181K
+    50K .......... .......... .........                         608K=0.3s
+
+2015-05-08 15:55:13 (244 KB/s) - ‘www.webtipblog.com/bash-script-create-apache-virtual-hosts/index.html’ saved [80907]
+
+Removing www.webtipblog.com/bash-script-create-apache-virtual-hosts/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:13--  http://www.webtipblog.com/tag/apache/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:13 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:13--  http://www.webtipblog.com/tag/apache/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:14 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/apache/index.html’
+
+     0K .......... ....                                        57.2K=0.3s
+
+2015-05-08 15:55:14 (57.2 KB/s) - ‘www.webtipblog.com/tag/apache/index.html’ saved [15333]
+
+Removing www.webtipblog.com/tag/apache/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:14--  http://www.webtipblog.com/tag/bash/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:15 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:15--  http://www.webtipblog.com/tag/bash/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:15 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/bash/index.html’
+
+     0K .......... ...                                         56.5K=0.2s
+
+2015-05-08 15:55:15 (56.5 KB/s) - ‘www.webtipblog.com/tag/bash/index.html’ saved [13588]
+
+Removing www.webtipblog.com/tag/bash/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:15--  http://www.webtipblog.com/wp-content/uploads/2014/08/terminal.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:15 GMT
+  Content-Type: image/png
+  Content-Length: 3410
+  Connection: keep-alive
+  Last-Modified: Sat, 30 Aug 2014 15:39:10 GMT
+  Accept-Ranges: bytes
+Length: 3410 (3.3K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/08/terminal.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:15--  http://www.webtipblog.com/managing-ios-network-activity-indicator/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:16 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=545>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:16--  http://www.webtipblog.com/managing-ios-network-activity-indicator/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:16 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=545>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/managing-ios-network-activity-indicator/index.html’
+
+     0K .......... .......... .......... .......... ..........  186K
+    50K .......... .......... .......... ....                   717K=0.3s
+
+2015-05-08 15:55:17 (266 KB/s) - ‘www.webtipblog.com/managing-ios-network-activity-indicator/index.html’ saved [86347]
+
+Removing www.webtipblog.com/managing-ios-network-activity-indicator/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:17--  http://www.webtipblog.com/ios/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:17 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:17--  http://www.webtipblog.com/ios/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:18 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/ios/index.html’
+
+     0K .......... ........                                    78.1K=0.2s
+
+2015-05-08 15:55:18 (78.1 KB/s) - ‘www.webtipblog.com/ios/index.html’ saved [19264]
+
+Removing www.webtipblog.com/ios/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:18--  http://www.webtipblog.com/tag/ios/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:18 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:18--  http://www.webtipblog.com/tag/ios/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:19 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/ios/index.html’
+
+     0K .......... ........                                    76.7K=0.2s
+
+2015-05-08 15:55:19 (76.7 KB/s) - ‘www.webtipblog.com/tag/ios/index.html’ saved [19427]
+
+Removing www.webtipblog.com/tag/ios/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:19--  http://www.webtipblog.com/tag/objective-c/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:20 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:20--  http://www.webtipblog.com/tag/objective-c/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:20 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/objective-c/index.html’
+
+     0K .......... .........                                   77.6K=0.2s
+
+2015-05-08 15:55:20 (77.6 KB/s) - ‘www.webtipblog.com/tag/objective-c/index.html’ saved [19483]
+
+Removing www.webtipblog.com/tag/objective-c/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:20--  http://www.webtipblog.com/wp-content/uploads/2014/08/indicator-624x40.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:20 GMT
+  Content-Type: image/png
+  Content-Length: 8445
+  Connection: keep-alive
+  Last-Modified: Thu, 28 Aug 2014 02:58:56 GMT
+  Accept-Ranges: bytes
+Length: 8445 (8.2K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/08/indicator-624x40.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:20--  http://www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:21 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=539>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:21--  http://www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:21 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=539>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/index.html’
+
+     0K .......... .......... ..                                144K=0.2s
+
+2015-05-08 15:55:21 (144 KB/s) - ‘www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/index.html’ saved [23041]
+
+Removing www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:21--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:22 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:22--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:22 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html’
+
+     0K .......... .......... .......... .......                152K=0.2s
+
+2015-05-08 15:55:23 (152 KB/s) - ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html’ saved [38626]
+
+Removing www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:23--  http://www.webtipblog.com/tag/drupal/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:23 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:23--  http://www.webtipblog.com/tag/drupal/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:23 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/drupal/index.html’
+
+     0K .......... ......                                      80.8K=0.2s
+
+2015-05-08 15:55:24 (80.8 KB/s) - ‘www.webtipblog.com/tag/drupal/index.html’ saved [16725]
+
+Removing www.webtipblog.com/tag/drupal/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:24--  http://www.webtipblog.com/tag/jquery/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:24 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:24--  http://www.webtipblog.com/tag/jquery/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:25 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/jquery/index.html’
+
+     0K .......... .......... .                                78.2K=0.3s
+
+2015-05-08 15:55:25 (78.2 KB/s) - ‘www.webtipblog.com/tag/jquery/index.html’ saved [21594]
+
+Removing www.webtipblog.com/tag/jquery/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:25--  http://www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:25 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=502>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:25--  http://www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:26 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=502>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/index.html’
+
+     0K .......... .......... .........                         163K=0.2s
+
+2015-05-08 15:55:26 (163 KB/s) - ‘www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/index.html’ saved [30688]
+
+Removing www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:26--  http://www.webtipblog.com/database/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:26 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:26--  http://www.webtipblog.com/database/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:27 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/database/index.html’
+
+     0K .......... ..                                          71.9K=0.2s
+
+2015-05-08 15:55:27 (71.9 KB/s) - ‘www.webtipblog.com/database/index.html’ saved [13176]
+
+Removing www.webtipblog.com/database/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:27--  http://www.webtipblog.com/tag/mysql/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:28 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:28--  http://www.webtipblog.com/tag/mysql/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:28 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/mysql/index.html’
+
+     0K .......... ...                                         78.9K=0.2s
+
+2015-05-08 15:55:28 (78.9 KB/s) - ‘www.webtipblog.com/tag/mysql/index.html’ saved [13318]
+
+Removing www.webtipblog.com/tag/mysql/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:28--  http://www.webtipblog.com/update-a-drupal-modules-database-schema-using-hook_update_n/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:29 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=510>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:29--  http://www.webtipblog.com/update-a-drupal-modules-database-schema-using-hook_update_n/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:29 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=510>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/update-a-drupal-modules-database-schema-using-hook_update_n/index.html’
+
+     0K .......... .......... ..                                129K=0.2s
+
+2015-05-08 15:55:29 (129 KB/s) - ‘www.webtipblog.com/update-a-drupal-modules-database-schema-using-hook_update_n/index.html’ saved [23395]
+
+Removing www.webtipblog.com/update-a-drupal-modules-database-schema-using-hook_update_n/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:29--  http://www.webtipblog.com/tag/drush/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:30 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:30--  http://www.webtipblog.com/tag/drush/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:30 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/drush/index.html’
+
+     0K .......... ....                                        72.2K=0.2s
+
+2015-05-08 15:55:30 (72.2 KB/s) - ‘www.webtipblog.com/tag/drush/index.html’ saved [15006]
+
+Removing www.webtipblog.com/tag/drush/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:30--  http://www.webtipblog.com/page/3/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:31 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:31--  http://www.webtipblog.com/page/3/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:31 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/page/3/index.html’
+
+     0K .......... .......... .......                          59.4K=0.5s
+
+2015-05-08 15:55:32 (59.4 KB/s) - ‘www.webtipblog.com/page/3/index.html’ saved [28249]
+
+Removing www.webtipblog.com/page/3/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:32--  http://www.webtipblog.com/page/6/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:32 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:32--  http://www.webtipblog.com/page/6/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:33 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/page/6/index.html’
+
+     0K .......... ...                                         84.8K=0.2s
+
+2015-05-08 15:55:33 (84.8 KB/s) - ‘www.webtipblog.com/page/6/index.html’ saved [13504]
+
+Removing www.webtipblog.com/page/6/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:33--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/img/icons/twitter.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:33 GMT
+  Content-Type: image/png
+  Content-Length: 2435
+  Connection: keep-alive
+  Last-Modified: Sat, 31 Aug 2013 02:47:55 GMT
+  Accept-Ranges: bytes
+Length: 2435 (2.4K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/img/icons/twitter.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:33--  http://www.josephmsexton.com/
+Resolving www.josephmsexton.com... 50.87.146.64
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:34 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.josephmsexton.com/xmlrpc.php
+  Link: <http://www.josephmsexton.com/>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:34--  http://www.josephmsexton.com/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:34 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.josephmsexton.com/xmlrpc.php
+  Link: <http://www.josephmsexton.com/>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.josephmsexton.com/index.html’
+
+     0K .......... .                                           52.9K=0.2s
+
+2015-05-08 15:55:34 (52.9 KB/s) - ‘www.josephmsexton.com/index.html’ saved [11503]
+
+Removing www.josephmsexton.com/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:34--  http://www.webtipblog.com/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:34 GMT
+  Content-Type: application/javascript
+  Content-Length: 2502
+  Connection: keep-alive
+  Last-Modified: Wed, 04 Jun 2014 03:19:57 GMT
+  Accept-Ranges: bytes
+Length: 2502 (2.4K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/plugins/scroll-back-to-top/assets/js/scroll-back-to-top.js.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:34--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/js/main.js?ver=alpha
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:34 GMT
+  Content-Type: application/javascript
+  Content-Length: 2396
+  Connection: keep-alive
+  Last-Modified: Sat, 29 Mar 2014 04:04:24 GMT
+  Accept-Ranges: bytes
+Length: 2396 (2.3K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/js/main.js?ver=alpha.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:34--  http://www.webtipblog.com/wp-content/themes/webtipblog/assets/js/libs/bootstrap.min.js?ver=2.3.1
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:34 GMT
+  Content-Type: application/javascript
+  Content-Length: 27726
+  Connection: keep-alive
+  Last-Modified: Sun, 01 Sep 2013 15:13:04 GMT
+  Accept-Ranges: bytes
+Length: 27726 (27K) [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/themes/webtipblog/assets/js/libs/bootstrap.min.js?ver=2.3.1.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:34--  http://www.webtipblog.com/php-elvis-operator/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:35 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=493>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:35--  http://www.webtipblog.com/php-elvis-operator/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:35 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=493>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/php-elvis-operator/index.html’
+
+     0K .......... .......... .......... ..                     157K=0.2s
+
+2015-05-08 15:55:36 (157 KB/s) - ‘www.webtipblog.com/php-elvis-operator/index.html’ saved [32835]
+
+Removing www.webtipblog.com/php-elvis-operator/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:36--  http://www.webtipblog.com/wp-content/uploads/2014/04/elvis.jpg
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:36 GMT
+  Content-Type: image/jpeg
+  Content-Length: 78259
+  Connection: keep-alive
+  Last-Modified: Sat, 05 Apr 2014 13:59:33 GMT
+  Accept-Ranges: bytes
+Length: 78259 (76K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/04/elvis.jpg.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:36--  http://www.webtipblog.com/reset-password-users-drupal-using-drush/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:36 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=490>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:36--  http://www.webtipblog.com/reset-password-users-drupal-using-drush/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:36 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=490>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/reset-password-users-drupal-using-drush/index.html’
+
+     0K .......... .......... .                                 132K=0.2s
+
+2015-05-08 15:55:37 (132 KB/s) - ‘www.webtipblog.com/reset-password-users-drupal-using-drush/index.html’ saved [21995]
+
+Removing www.webtipblog.com/reset-password-users-drupal-using-drush/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:37--  http://www.webtipblog.com/change-the-git-remote-repository-url/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:37 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=487>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:37--  http://www.webtipblog.com/change-the-git-remote-repository-url/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:37 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=487>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/change-the-git-remote-repository-url/index.html’
+
+     0K .......... .......... .                                 133K=0.2s
+
+2015-05-08 15:55:38 (133 KB/s) - ‘www.webtipblog.com/change-the-git-remote-repository-url/index.html’ saved [21662]
+
+Removing www.webtipblog.com/change-the-git-remote-repository-url/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:38--  http://www.webtipblog.com/version-control/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:38 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:38--  http://www.webtipblog.com/version-control/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:38 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/version-control/index.html’
+
+     0K .......... ..                                          80.7K=0.2s
+
+2015-05-08 15:55:39 (80.7 KB/s) - ‘www.webtipblog.com/version-control/index.html’ saved [12993]
+
+Removing www.webtipblog.com/version-control/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:39--  http://www.webtipblog.com/tag/git/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:39 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:39--  http://www.webtipblog.com/tag/git/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:40 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/git/index.html’
+
+     0K .......... ..                                          79.0K=0.2s
+
+2015-05-08 15:55:40 (79.0 KB/s) - ‘www.webtipblog.com/tag/git/index.html’ saved [13072]
+
+Removing www.webtipblog.com/tag/git/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:40--  http://www.webtipblog.com/scroll-back-top-wordpress-plugin/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:40 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=456>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:40--  http://www.webtipblog.com/scroll-back-top-wordpress-plugin/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:41 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=456>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/scroll-back-top-wordpress-plugin/index.html’
+
+     0K .......... .......... .......... .......... ..          208K=0.2s
+
+2015-05-08 15:55:41 (208 KB/s) - ‘www.webtipblog.com/scroll-back-top-wordpress-plugin/index.html’ saved [43614]
+
+Removing www.webtipblog.com/scroll-back-top-wordpress-plugin/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:41--  http://www.webtipblog.com/tag/animation/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:41 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: close
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:41--  http://www.webtipblog.com/tag/animation/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... No data received.
+Retrying.
+
+--2015-05-08 15:55:43--  (try: 2)  http://www.webtipblog.com/tag/animation/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:43 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/animation/index.html’
+
+     0K .......... .........                                   73.7K=0.3s
+
+2015-05-08 15:55:43 (73.7 KB/s) - ‘www.webtipblog.com/tag/animation/index.html’ saved [19903]
+
+Removing www.webtipblog.com/tag/animation/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:43--  http://www.webtipblog.com/tag/plugin/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:44 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:44--  http://www.webtipblog.com/tag/plugin/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:44 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/plugin/index.html’
+
+     0K .......... .......... ........                         74.9K=0.4s
+
+2015-05-08 15:55:45 (74.9 KB/s) - ‘www.webtipblog.com/tag/plugin/index.html’ saved [29433]
+
+Removing www.webtipblog.com/tag/plugin/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:45--  http://www.webtipblog.com/tag/ux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:45 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:45--  http://www.webtipblog.com/tag/ux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:46 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/ux/index.html’
+
+     0K .......... .........                                   75.7K=0.3s
+
+2015-05-08 15:55:46 (75.7 KB/s) - ‘www.webtipblog.com/tag/ux/index.html’ saved [19562]
+
+Removing www.webtipblog.com/tag/ux/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:46--  http://www.webtipblog.com/tag/widget/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:47 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:47--  http://www.webtipblog.com/tag/widget/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:47 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/widget/index.html’
+
+     0K .......... .......                                     81.6K=0.2s
+
+2015-05-08 15:55:47 (81.6 KB/s) - ‘www.webtipblog.com/tag/widget/index.html’ saved [18338]
+
+Removing www.webtipblog.com/tag/widget/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:47--  http://www.webtipblog.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-27-at-10.12.20-PM-624x68.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:47 GMT
+  Content-Type: image/png
+  Content-Length: 3400
+  Connection: keep-alive
+  Last-Modified: Sat, 29 Mar 2014 04:12:12 GMT
+  Accept-Ranges: bytes
+Length: 3400 (3.3K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-27-at-10.12.20-PM-624x68.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:47--  http://www.webtipblog.com/scroll-back-top-wordpress-plugin-button-designs/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:48 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=450>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:48--  http://www.webtipblog.com/scroll-back-top-wordpress-plugin-button-designs/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:48 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=450>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/scroll-back-top-wordpress-plugin-button-designs/index.html’
+
+     0K .......... .......... .....                             127K=0.2s
+
+2015-05-08 15:55:49 (127 KB/s) - ‘www.webtipblog.com/scroll-back-top-wordpress-plugin-button-designs/index.html’ saved [26103]
+
+Removing www.webtipblog.com/scroll-back-top-wordpress-plugin-button-designs/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:49--  http://www.webtipblog.com/javascript/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:49 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:49--  http://www.webtipblog.com/javascript/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:50 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/javascript/index.html’
+
+     0K .......... .......... ..                               57.9K=0.4s
+
+2015-05-08 15:55:50 (57.9 KB/s) - ‘www.webtipblog.com/javascript/index.html’ saved [23334]
+
+Removing www.webtipblog.com/javascript/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:50--  http://www.webtipblog.com/user-experience/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:50 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:50--  http://www.webtipblog.com/user-experience/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:51 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/user-experience/index.html’
+
+     0K .......... ....                                        89.0K=0.2s
+
+2015-05-08 15:55:51 (89.0 KB/s) - ‘www.webtipblog.com/user-experience/index.html’ saved [15136]
+
+Removing www.webtipblog.com/user-experience/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:51--  http://www.webtipblog.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-27-at-10.20.44-PM-624x66.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:51 GMT
+  Content-Type: image/png
+  Content-Length: 3496
+  Connection: keep-alive
+  Last-Modified: Sat, 29 Mar 2014 04:12:18 GMT
+  Accept-Ranges: bytes
+Length: 3496 (3.4K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/03/Screen-Shot-2014-03-27-at-10.20.44-PM-624x66.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:51--  http://www.webtipblog.com/managing-wordpress-roles-capabilities/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:52 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=432>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:52--  http://www.webtipblog.com/managing-wordpress-roles-capabilities/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:52 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=432>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/managing-wordpress-roles-capabilities/index.html’
+
+     0K .......... .......... .......... .......                180K=0.2s
+
+2015-05-08 15:55:52 (180 KB/s) - ‘www.webtipblog.com/managing-wordpress-roles-capabilities/index.html’ saved [38062]
+
+Removing www.webtipblog.com/managing-wordpress-roles-capabilities/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:52--  http://www.webtipblog.com/adding-scroll-top-button-website/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:53 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=464>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:53--  http://www.webtipblog.com/adding-scroll-top-button-website/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:53 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=464>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/adding-scroll-top-button-website/index.html’
+
+     0K .......... .......... .......... .......... ..........  215K
+    50K .......... .......... .......... ..........             836K=0.3s
+
+2015-05-08 15:55:54 (321 KB/s) - ‘www.webtipblog.com/adding-scroll-top-button-website/index.html’ saved [92223]
+
+Removing www.webtipblog.com/adding-scroll-top-button-website/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:54--  http://www.webtipblog.com/wp-content/uploads/2014/03/Scroll-to-top-button.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:54 GMT
+  Content-Type: image/png
+  Content-Length: 5302
+  Connection: keep-alive
+  Last-Modified: Sat, 29 Mar 2014 13:59:16 GMT
+  Accept-Ranges: bytes
+Length: 5302 (5.2K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/03/Scroll-to-top-button.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:54--  http://www.webtipblog.com/configure-phpstorm-xdebug-use-advanced-debugging-features-techniques/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:54 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=404>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:54--  http://www.webtipblog.com/configure-phpstorm-xdebug-use-advanced-debugging-features-techniques/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:55 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=404>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/configure-phpstorm-xdebug-use-advanced-debugging-features-techniques/index.html’
+
+     0K .......... .......... ....                              145K=0.2s
+
+2015-05-08 15:55:55 (145 KB/s) - ‘www.webtipblog.com/configure-phpstorm-xdebug-use-advanced-debugging-features-techniques/index.html’ saved [25168]
+
+Removing www.webtipblog.com/configure-phpstorm-xdebug-use-advanced-debugging-features-techniques/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:55--  http://www.webtipblog.com/tag/ide/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:55 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:55--  http://www.webtipblog.com/tag/ide/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:56 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/ide/index.html’
+
+     0K .......... ....                                        91.8K=0.2s
+
+2015-05-08 15:55:56 (91.8 KB/s) - ‘www.webtipblog.com/tag/ide/index.html’ saved [14941]
+
+Removing www.webtipblog.com/tag/ide/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:56--  http://www.webtipblog.com/tag/phpstorm/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:56 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:56--  http://www.webtipblog.com/tag/phpstorm/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:57 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/phpstorm/index.html’
+
+     0K .......... ..                                          81.7K=0.2s
+
+2015-05-08 15:55:57 (81.7 KB/s) - ‘www.webtipblog.com/tag/phpstorm/index.html’ saved [13108]
+
+Removing www.webtipblog.com/tag/phpstorm/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:57--  http://www.webtipblog.com/tag/xdebug/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:57 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:57--  http://www.webtipblog.com/tag/xdebug/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:58 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/xdebug/index.html’
+
+     0K .......... ..                                          80.5K=0.2s
+
+2015-05-08 15:55:58 (80.5 KB/s) - ‘www.webtipblog.com/tag/xdebug/index.html’ saved [13094]
+
+Removing www.webtipblog.com/tag/xdebug/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:58--  http://www.webtipblog.com/scrabble-word-finder-review/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:59 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=399>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:55:59--  http://www.webtipblog.com/scrabble-word-finder-review/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:55:59 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=399>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/scrabble-word-finder-review/index.html’
+
+     0K .......... ..........                                   135K=0.1s
+
+2015-05-08 15:55:59 (135 KB/s) - ‘www.webtipblog.com/scrabble-word-finder-review/index.html’ saved [20531]
+
+Removing www.webtipblog.com/scrabble-word-finder-review/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:55:59--  http://www.webtipblog.com/lexical-word-tools/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:00--  http://www.webtipblog.com/lexical-word-tools/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/lexical-word-tools/index.html’
+
+     0K .......... ...                                          407K=0.03s
+
+2015-05-08 15:56:00 (407 KB/s) - ‘www.webtipblog.com/lexical-word-tools/index.html’ saved [13518]
+
+Removing www.webtipblog.com/lexical-word-tools/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:00--  http://www.webtipblog.com/tag/cheat/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:01 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:01--  http://www.webtipblog.com/tag/cheat/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:01 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/cheat/index.html’
+
+     0K .......... ...                                          120K=0.1s
+
+2015-05-08 15:56:01 (120 KB/s) - ‘www.webtipblog.com/tag/cheat/index.html’ saved [13590]
+
+Removing www.webtipblog.com/tag/cheat/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:01--  http://www.webtipblog.com/tag/lexicon/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:02 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:02--  http://www.webtipblog.com/tag/lexicon/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:02 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/lexicon/index.html’
+
+     0K .......... ...                                         84.4K=0.2s
+
+2015-05-08 15:56:02 (84.4 KB/s) - ‘www.webtipblog.com/tag/lexicon/index.html’ saved [13604]
+
+Removing www.webtipblog.com/tag/lexicon/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:02--  http://www.webtipblog.com/tag/scrabble/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:03 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:03--  http://www.webtipblog.com/tag/scrabble/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:03 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/scrabble/index.html’
+
+     0K .......... ...                                         83.9K=0.2s
+
+2015-05-08 15:56:03 (83.9 KB/s) - ‘www.webtipblog.com/tag/scrabble/index.html’ saved [13611]
+
+Removing www.webtipblog.com/tag/scrabble/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:03--  http://www.webtipblog.com/tag/word/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:04 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:04--  http://www.webtipblog.com/tag/word/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:04 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/word/index.html’
+
+     0K .......... ...                                         83.9K=0.2s
+
+2015-05-08 15:56:04 (83.9 KB/s) - ‘www.webtipblog.com/tag/word/index.html’ saved [13583]
+
+Removing www.webtipblog.com/tag/word/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:04--  http://www.webtipblog.com/tag/words-with-friends/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:05 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:05--  http://www.webtipblog.com/tag/words-with-friends/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:05 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/words-with-friends/index.html’
+
+     0K .......... ...                                         84.3K=0.2s
+
+2015-05-08 15:56:05 (84.3 KB/s) - ‘www.webtipblog.com/tag/words-with-friends/index.html’ saved [13681]
+
+Removing www.webtipblog.com/tag/words-with-friends/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:05--  http://www.webtipblog.com/wp-content/uploads/2014/02/logo.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:05 GMT
+  Content-Type: image/png
+  Content-Length: 118164
+  Connection: keep-alive
+  Last-Modified: Sat, 08 Feb 2014 17:37:55 GMT
+  Accept-Ranges: bytes
+Length: 118164 (115K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/02/logo.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:05--  http://www.webtipblog.com/exclude-custom-post-type-search-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:06 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=392>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:06--  http://www.webtipblog.com/exclude-custom-post-type-search-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:06 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=392>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/exclude-custom-post-type-search-wordpress/index.html’
+
+     0K .......... .......... .......... .                      169K=0.2s
+
+2015-05-08 15:56:07 (169 KB/s) - ‘www.webtipblog.com/exclude-custom-post-type-search-wordpress/index.html’ saved [32011]
+
+Removing www.webtipblog.com/exclude-custom-post-type-search-wordpress/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:07--  http://www.webtipblog.com/tag/custom-post-type/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:07 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:07--  http://www.webtipblog.com/tag/custom-post-type/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:07 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/custom-post-type/index.html’
+
+     0K .......... ....                                        65.3K=0.2s
+
+2015-05-08 15:56:08 (65.3 KB/s) - ‘www.webtipblog.com/tag/custom-post-type/index.html’ saved [15029]
+
+Removing www.webtipblog.com/tag/custom-post-type/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:08--  http://www.webtipblog.com/page/1/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:08 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/
+Location: http://www.webtipblog.com/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:08--  http://www.webtipblog.com/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:09 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:09--  http://www.webtipblog.com/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:09 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/index.html’
+
+     0K .......... .......... .......... ..                    68.9K=0.5s
+
+2015-05-08 15:56:10 (68.9 KB/s) - ‘www.webtipblog.com/index.html’ saved [33189]
+
+Removing www.webtipblog.com/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:10--  http://www.webtipblog.com/page/4/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:10 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:10--  http://www.webtipblog.com/page/4/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:11 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/page/4/index.html’
+
+     0K .......... .......... .........                        53.7K=0.5s
+
+2015-05-08 15:56:11 (53.7 KB/s) - ‘www.webtipblog.com/page/4/index.html’ saved [29800]
+
+Removing www.webtipblog.com/page/4/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:11--  http://www.webtipblog.com/php/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:12 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:12--  http://www.webtipblog.com/php/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:12 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/php/page/2/index.html’
+
+     0K .......... .......... .......                          61.3K=0.4s
+
+2015-05-08 15:56:13 (61.3 KB/s) - ‘www.webtipblog.com/php/page/2/index.html’ saved [28112]
+
+Removing www.webtipblog.com/php/page/2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:13--  http://www.webtipblog.com/php/page/3/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:13 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:13--  http://www.webtipblog.com/php/page/3/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:13 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/php/page/3/index.html’
+
+     0K .......... .......... ........                         48.3K=0.6s
+
+2015-05-08 15:56:14 (48.3 KB/s) - ‘www.webtipblog.com/php/page/3/index.html’ saved [29139]
+
+Removing www.webtipblog.com/php/page/3/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:14--  http://www.webtipblog.com/php/page/4/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:15 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:15--  http://www.webtipblog.com/php/page/4/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:15 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/php/page/4/index.html’
+
+     0K .......... .......... .........                        51.3K=0.6s
+
+2015-05-08 15:56:16 (51.3 KB/s) - ‘www.webtipblog.com/php/page/4/index.html’ saved [30260]
+
+Removing www.webtipblog.com/php/page/4/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:16--  http://www.webtipblog.com/tag/symfony/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:16 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:16--  http://www.webtipblog.com/tag/symfony/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:17 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/symfony/page/2/index.html’
+
+     0K .......... ...                                         69.1K=0.2s
+
+2015-05-08 15:56:17 (69.1 KB/s) - ‘www.webtipblog.com/tag/symfony/page/2/index.html’ saved [14275]
+
+Removing www.webtipblog.com/tag/symfony/page/2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:17--  http://www.webtipblog.com/force-urls-use-http-https-symfony-2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:17 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=332>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:17--  http://www.webtipblog.com/force-urls-use-http-https-symfony-2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:18 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=332>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/force-urls-use-http-https-symfony-2/index.html’
+
+     0K .......... .......... ......                            169K=0.2s
+
+2015-05-08 15:56:18 (169 KB/s) - ‘www.webtipblog.com/force-urls-use-http-https-symfony-2/index.html’ saved [27629]
+
+Removing www.webtipblog.com/force-urls-use-http-https-symfony-2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:18--  http://www.webtipblog.com/creating-a-crawler-in-symfony-2-using-the-domcrawler-and-client/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:18 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=275>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:18--  http://www.webtipblog.com/creating-a-crawler-in-symfony-2-using-the-domcrawler-and-client/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:19 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=275>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/creating-a-crawler-in-symfony-2-using-the-domcrawler-and-client/index.html’
+
+     0K .......... .......... .......... .......... ..........  170K
+    50K .......... .......... .......... .......... ..........  530K
+   100K .......... ........                                     393K=0.4s
+
+2015-05-08 15:56:19 (272 KB/s) - ‘www.webtipblog.com/creating-a-crawler-in-symfony-2-using-the-domcrawler-and-client/index.html’ saved [121371]
+
+Removing www.webtipblog.com/creating-a-crawler-in-symfony-2-using-the-domcrawler-and-client/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:19--  http://www.webtipblog.com/tag/domcrawler/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:20 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:20--  http://www.webtipblog.com/tag/domcrawler/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:20 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/domcrawler/index.html’
+
+     0K .......... ...                                         53.2K=0.2s
+
+2015-05-08 15:56:20 (53.2 KB/s) - ‘www.webtipblog.com/tag/domcrawler/index.html’ saved [13498]
+
+Removing www.webtipblog.com/tag/domcrawler/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:20--  http://www.webtipblog.com/tag/unit-testing/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:21 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:21--  http://www.webtipblog.com/tag/unit-testing/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:21 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/unit-testing/index.html’
+
+     0K .......... ....                                        48.3K=0.3s
+
+2015-05-08 15:56:21 (48.3 KB/s) - ‘www.webtipblog.com/tag/unit-testing/index.html’ saved [15156]
+
+Removing www.webtipblog.com/tag/unit-testing/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:21--  http://www.webtipblog.com/view-text-run-symfony-2-translator-by-hghlighting-translations/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:22 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=277>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:22--  http://www.webtipblog.com/view-text-run-symfony-2-translator-by-hghlighting-translations/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:22 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=277>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/view-text-run-symfony-2-translator-by-hghlighting-translations/index.html’
+
+     0K .......... .......... .......... .......... ..........  208K
+    50K .......                                                 941K=0.2s
+
+2015-05-08 15:56:23 (232 KB/s) - ‘www.webtipblog.com/view-text-run-symfony-2-translator-by-hghlighting-translations/index.html’ saved [59115]
+
+Removing www.webtipblog.com/view-text-run-symfony-2-translator-by-hghlighting-translations/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:23--  http://www.webtipblog.com/tag/translation/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:23 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:23--  http://www.webtipblog.com/tag/translation/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:24 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/translation/index.html’
+
+     0K .......... .........                                   63.7K=0.3s
+
+2015-05-08 15:56:24 (63.7 KB/s) - ‘www.webtipblog.com/tag/translation/index.html’ saved [19666]
+
+Removing www.webtipblog.com/tag/translation/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:24--  http://www.webtipblog.com/create-a-custom-form-field-type-in-symfony-2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:25 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=266>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:25--  http://www.webtipblog.com/create-a-custom-form-field-type-in-symfony-2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:25 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=266>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/create-a-custom-form-field-type-in-symfony-2/index.html’
+
+     0K .......... .......... .......... .......... ..........  162K
+    50K .......... ..                                           152M=0.3s
+
+2015-05-08 15:56:25 (201 KB/s) - ‘www.webtipblog.com/create-a-custom-form-field-type-in-symfony-2/index.html’ saved [63639]
+
+Removing www.webtipblog.com/create-a-custom-form-field-type-in-symfony-2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:25--  http://www.webtipblog.com/override-symfony-2-form-element-twig-template/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:26 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=261>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:26--  http://www.webtipblog.com/override-symfony-2-form-element-twig-template/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:26 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=261>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/override-symfony-2-form-element-twig-template/index.html’
+
+     0K .......... .......... .......... ..........             163K=0.3s
+
+2015-05-08 15:56:27 (163 KB/s) - ‘www.webtipblog.com/override-symfony-2-form-element-twig-template/index.html’ saved [41770]
+
+Removing www.webtipblog.com/override-symfony-2-form-element-twig-template/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:27--  http://www.webtipblog.com/create-authentication-listener-symfony-2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:27 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=134>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:27--  http://www.webtipblog.com/create-authentication-listener-symfony-2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:28 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=134>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/create-authentication-listener-symfony-2/index.html’
+
+     0K .......... .......... .......... .......... ..........  168K
+    50K .....                                                   151M=0.3s
+
+2015-05-08 15:56:28 (188 KB/s) - ‘www.webtipblog.com/create-authentication-listener-symfony-2/index.html’ saved [57235]
+
+Removing www.webtipblog.com/create-authentication-listener-symfony-2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:28--  http://www.webtipblog.com/change-the-symfony-2-validator-translation-domain-and-file-path/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:29 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=82>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:29--  http://www.webtipblog.com/change-the-symfony-2-validator-translation-domain-and-file-path/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:29 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=82>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/change-the-symfony-2-validator-translation-domain-and-file-path/index.html’
+
+     0K .......... .......... ...                               107K=0.2s
+
+2015-05-08 15:56:29 (107 KB/s) - ‘www.webtipblog.com/change-the-symfony-2-validator-translation-domain-and-file-path/index.html’ saved [24510]
+
+Removing www.webtipblog.com/change-the-symfony-2-validator-translation-domain-and-file-path/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:29--  http://www.webtipblog.com/tag/i18n/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:30 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:30--  http://www.webtipblog.com/tag/i18n/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:30 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/i18n/index.html’
+
+     0K .......... .......                                     67.2K=0.3s
+
+2015-05-08 15:56:30 (67.2 KB/s) - ‘www.webtipblog.com/tag/i18n/index.html’ saved [17827]
+
+Removing www.webtipblog.com/tag/i18n/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:30--  http://www.webtipblog.com/wp-content/uploads/2013/09/translation.jpg
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:31 GMT
+  Content-Type: image/jpeg
+  Content-Length: 85966
+  Connection: keep-alive
+  Last-Modified: Thu, 05 Sep 2013 02:12:16 GMT
+  Accept-Ranges: bytes
+Length: 85966 (84K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2013/09/translation.jpg.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:31--  http://www.webtipblog.com/define-a-symfony-2-form-as-a-service/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:31 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=22>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:31--  http://www.webtipblog.com/define-a-symfony-2-form-as-a-service/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:32 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=22>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/define-a-symfony-2-form-as-a-service/index.html’
+
+     0K .......... .......... .......... .......... ......      189K=0.2s
+
+2015-05-08 15:56:32 (189 KB/s) - ‘www.webtipblog.com/define-a-symfony-2-form-as-a-service/index.html’ saved [47401]
+
+Removing www.webtipblog.com/define-a-symfony-2-form-as-a-service/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:32--  http://www.webtipblog.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-03-at-10.39.49-PM.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:32 GMT
+  Content-Type: image/png
+  Content-Length: 7701
+  Connection: keep-alive
+  Last-Modified: Thu, 05 Sep 2013 02:11:46 GMT
+  Accept-Ranges: bytes
+Length: 7701 (7.5K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2013/09/Screen-Shot-2013-09-03-at-10.39.49-PM.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:32--  http://www.webtipblog.com/adding-an-ajax-login-form-to-a-symfony-project/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:32 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=65>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:32--  http://www.webtipblog.com/adding-an-ajax-login-form-to-a-symfony-project/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:33 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=65>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/adding-an-ajax-login-form-to-a-symfony-project/index.html’
+
+     0K .......... .......... .......... .......... ..........  172K
+    50K .......... .......... ...                               505K=0.3s
+
+2015-05-08 15:56:33 (219 KB/s) - ‘www.webtipblog.com/adding-an-ajax-login-form-to-a-symfony-project/index.html’ saved [75671]
+
+Removing www.webtipblog.com/adding-an-ajax-login-form-to-a-symfony-project/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:33--  http://www.webtipblog.com/tag/ajax/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:34 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:34--  http://www.webtipblog.com/tag/ajax/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:34 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/ajax/index.html’
+
+     0K .......... .....                                       58.8K=0.3s
+
+2015-05-08 15:56:34 (58.8 KB/s) - ‘www.webtipblog.com/tag/ajax/index.html’ saved [15594]
+
+Removing www.webtipblog.com/tag/ajax/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:34--  http://www.webtipblog.com/tag/wordpress/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:35 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:35--  http://www.webtipblog.com/tag/wordpress/page/2/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:35 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/tag/wordpress/page/2/index.html’
+
+     0K .......... .......... .                                57.7K=0.4s
+
+2015-05-08 15:56:36 (57.7 KB/s) - ‘www.webtipblog.com/tag/wordpress/page/2/index.html’ saved [22291]
+
+Removing www.webtipblog.com/tag/wordpress/page/2/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:36--  http://www.webtipblog.com/setting-wordpress-custom-post-type-parent-specific-page/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:36 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=380>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:36--  http://www.webtipblog.com/setting-wordpress-custom-post-type-parent-specific-page/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:37 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=380>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/setting-wordpress-custom-post-type-parent-specific-page/index.html’
+
+     0K .......... .......... .......... .......... ..........  192K
+    50K .......... .......... ..........                        650K=0.3s
+
+2015-05-08 15:56:37 (262 KB/s) - ‘www.webtipblog.com/setting-wordpress-custom-post-type-parent-specific-page/index.html’ saved [82817]
+
+Removing www.webtipblog.com/setting-wordpress-custom-post-type-parent-specific-page/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:37--  http://www.webtipblog.com/force-password-complexity-requirements-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:37 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=362>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:37--  http://www.webtipblog.com/force-password-complexity-requirements-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:38 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=362>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/force-password-complexity-requirements-wordpress/index.html’
+
+     0K .......... .......... .......... .......... .........   222K=0.2s
+
+2015-05-08 15:56:38 (222 KB/s) - ‘www.webtipblog.com/force-password-complexity-requirements-wordpress/index.html’ saved [50814]
+
+Removing www.webtipblog.com/force-password-complexity-requirements-wordpress/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:38--  http://www.webtipblog.com/wp-content/uploads/2014/01/login.jpg
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:38 GMT
+  Content-Type: image/jpeg
+  Content-Length: 19857
+  Connection: keep-alive
+  Last-Modified: Wed, 22 Jan 2014 17:30:23 GMT
+  Accept-Ranges: bytes
+Length: 19857 (19K) [image/jpeg]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/01/login.jpg.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:38--  http://www.webtipblog.com/change-wordpress-user-registration-welcome-email/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:39 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=359>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:39--  http://www.webtipblog.com/change-wordpress-user-registration-welcome-email/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:39 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=359>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/change-wordpress-user-registration-welcome-email/index.html’
+
+     0K .......... .......... .......... .......... ..........  174K
+    50K ........                                               19.1M=0.3s
+
+2015-05-08 15:56:39 (203 KB/s) - ‘www.webtipblog.com/change-wordpress-user-registration-welcome-email/index.html’ saved [59981]
+
+Removing www.webtipblog.com/change-wordpress-user-registration-welcome-email/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:39--  http://www.webtipblog.com/create-custom-page-link-sidebar-widget-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:40 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=369>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:40--  http://www.webtipblog.com/create-custom-page-link-sidebar-widget-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:40 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=369>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/create-custom-page-link-sidebar-widget-wordpress/index.html’
+
+     0K .......... .......... .......... .......... ..........  183K
+    50K .......... .......... ...                               505K=0.3s
+
+2015-05-08 15:56:41 (230 KB/s) - ‘www.webtipblog.com/create-custom-page-link-sidebar-widget-wordpress/index.html’ saved [75637]
+
+Removing www.webtipblog.com/create-custom-page-link-sidebar-widget-wordpress/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:41--  http://www.webtipblog.com/wp-content/uploads/2014/01/sidebar_widget.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:41 GMT
+  Content-Type: image/png
+  Content-Length: 15321
+  Connection: keep-alive
+  Last-Modified: Wed, 22 Jan 2014 17:46:37 GMT
+  Accept-Ranges: bytes
+Length: 15321 (15K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2014/01/sidebar_widget.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:41--  http://www.webtipblog.com/modify-wordpress-custom-post-type-configuration-registered/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:41 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=355>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:41--  http://www.webtipblog.com/modify-wordpress-custom-post-type-configuration-registered/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:42 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=355>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/modify-wordpress-custom-post-type-configuration-registered/index.html’
+
+     0K .......... .......... .....                             135K=0.2s
+
+2015-05-08 15:56:42 (135 KB/s) - ‘www.webtipblog.com/modify-wordpress-custom-post-type-configuration-registered/index.html’ saved [25939]
+
+Removing www.webtipblog.com/modify-wordpress-custom-post-type-configuration-registered/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:42--  http://www.webtipblog.com/update-url-rewrite-rules-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:42 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=300>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:42--  http://www.webtipblog.com/update-url-rewrite-rules-wordpress/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:43 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=300>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/update-url-rewrite-rules-wordpress/index.html’
+
+     0K .......... .......... .......... .......... ..........  179K
+    50K ....                                                   23.6M=0.3s
+
+2015-05-08 15:56:43 (196 KB/s) - ‘www.webtipblog.com/update-url-rewrite-rules-wordpress/index.html’ saved [56071]
+
+Removing www.webtipblog.com/update-url-rewrite-rules-wordpress/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:43--  http://www.webtipblog.com/?p=606
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:44 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/download-entire-website-using-wget-linux/
+Location: http://www.webtipblog.com/download-entire-website-using-wget-linux/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:44--  http://www.webtipblog.com/download-entire-website-using-wget-linux/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:44 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=606>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:44--  http://www.webtipblog.com/download-entire-website-using-wget-linux/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:45 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=606>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/download-entire-website-using-wget-linux/index.html’
+
+     0K .......... .......... ......                            102K=0.3s
+
+2015-05-08 15:56:45 (102 KB/s) - ‘www.webtipblog.com/download-entire-website-using-wget-linux/index.html’ saved [26725]
+
+Removing www.webtipblog.com/download-entire-website-using-wget-linux/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:45--  http://www.webtipblog.com/wp-content/plugins/akismet/_inc/form.js?ver=3.0.4
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:45 GMT
+  Content-Type: application/javascript
+  Content-Length: 700
+  Connection: keep-alive
+  Last-Modified: Wed, 11 Feb 2015 02:49:08 GMT
+  Accept-Ranges: bytes
+Length: 700 [application/javascript]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/plugins/akismet/_inc/form.js?ver=3.0.4.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:45--  http://www.webtipblog.com/?p=593
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:45 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/exposing-configuration-symfony-2-bundles/
+Location: http://www.webtipblog.com/exposing-configuration-symfony-2-bundles/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:45--  http://www.webtipblog.com/exposing-configuration-symfony-2-bundles/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:46 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=593>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:46--  http://www.webtipblog.com/exposing-configuration-symfony-2-bundles/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:46 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=593>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/exposing-configuration-symfony-2-bundles/index.html’
+
+     0K .......... .......... .......... .......... ..........  188K
+    50K .......... .......... .......... .                     29.9M=0.3s
+
+2015-05-08 15:56:47 (304 KB/s) - ‘www.webtipblog.com/exposing-configuration-symfony-2-bundles/index.html’ saved [83203]
+
+Removing www.webtipblog.com/exposing-configuration-symfony-2-bundles/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:47--  http://www.webtipblog.com/?p=578
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:47 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/
+Location: http://www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:47--  http://www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:48 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=578>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:48--  http://www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:48 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=578>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/index.html’
+
+     0K .......... .......... .......... .......... .....       184K=0.2s
+
+2015-05-08 15:56:48 (184 KB/s) - ‘www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/index.html’ saved [46109]
+
+Removing www.webtipblog.com/unvalidated-redirects-forwards-security-vulnerabilities-php/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:48--  http://www.webtipblog.com/adding-an-ajax-login-form-to-a-wordpress-theme/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:49 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=63>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:49--  http://www.webtipblog.com/adding-an-ajax-login-form-to-a-wordpress-theme/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:50 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=63>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/adding-an-ajax-login-form-to-a-wordpress-theme/index.html’
+
+     0K .......... .......... .......... .......... ..........  195K
+    50K .......... .......... .......... ..                     681K=0.3s
+
+2015-05-08 15:56:50 (270 KB/s) - ‘www.webtipblog.com/adding-an-ajax-login-form-to-a-wordpress-theme/index.html’ saved [84291]
+
+Removing www.webtipblog.com/adding-an-ajax-login-form-to-a-wordpress-theme/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:50--  http://www.webtipblog.com/implementing-csrf-protection-in-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:50 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=10>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:50--  http://www.webtipblog.com/implementing-csrf-protection-in-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:51 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=10>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/implementing-csrf-protection-in-php/index.html’
+
+     0K .......... .......... .......... .......... ...         180K=0.2s
+
+2015-05-08 15:56:51 (180 KB/s) - ‘www.webtipblog.com/implementing-csrf-protection-in-php/index.html’ saved [44859]
+
+Removing www.webtipblog.com/implementing-csrf-protection-in-php/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:51--  http://www.webtipblog.com/wp-content/uploads/2013/08/Untitled-1.png
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:51 GMT
+  Content-Type: image/png
+  Content-Length: 18255
+  Connection: keep-alive
+  Last-Modified: Thu, 05 Sep 2013 02:45:33 GMT
+  Accept-Ranges: bytes
+Length: 18255 (18K) [image/png]
+Remote file exists but does not contain any link -- not retrieving.
+
+Removing www.webtipblog.com/wp-content/uploads/2013/08/Untitled-1.png.
+unlink: No such file or directory
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:51--  http://www.webtipblog.com/?p=566
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:52 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/preventing-sql-injection-php/
+Location: http://www.webtipblog.com/preventing-sql-injection-php/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:52--  http://www.webtipblog.com/preventing-sql-injection-php/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:52 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:52--  http://www.webtipblog.com/preventing-sql-injection-php/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:52 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/preventing-sql-injection-php/index.html’
+
+     0K .......... .......... .......... ......                 155K=0.2s
+
+2015-05-08 15:56:53 (155 KB/s) - ‘www.webtipblog.com/preventing-sql-injection-php/index.html’ saved [36928]
+
+Removing www.webtipblog.com/preventing-sql-injection-php/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:53--  http://www.webtipblog.com/preventing-sql-injection-php/?replytocom=8714
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:53 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:53--  http://www.webtipblog.com/preventing-sql-injection-php/?replytocom=8714
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:54 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/preventing-sql-injection-php/index.html?replytocom=8714.html’
+
+     0K .......... .......... .......... ......                 182K=0.2s
+
+2015-05-08 15:56:54 (182 KB/s) - ‘www.webtipblog.com/preventing-sql-injection-php/index.html?replytocom=8714.html’ saved [37049]
+
+Removing www.webtipblog.com/preventing-sql-injection-php/index.html?replytocom=8714.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:54--  http://www.webtipblog.com/preventing-sql-injection-php/?replytocom=11730
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:54 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:54--  http://www.webtipblog.com/preventing-sql-injection-php/?replytocom=11730
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:55 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=566>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/preventing-sql-injection-php/index.html?replytocom=11730.html’
+
+     0K .......... .......... .......... ......                 142K=0.3s
+
+2015-05-08 15:56:55 (142 KB/s) - ‘www.webtipblog.com/preventing-sql-injection-php/index.html?replytocom=11730.html’ saved [37055]
+
+Removing www.webtipblog.com/preventing-sql-injection-php/index.html?replytocom=11730.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:55--  http://www.webtipblog.com/?p=552
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:55 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/bash-script-create-apache-virtual-hosts/
+Location: http://www.webtipblog.com/bash-script-create-apache-virtual-hosts/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:55--  http://www.webtipblog.com/bash-script-create-apache-virtual-hosts/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:56 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=552>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:56--  http://www.webtipblog.com/bash-script-create-apache-virtual-hosts/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:56 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=552>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/bash-script-create-apache-virtual-hosts/index.html’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .........                         609K=0.4s
+
+2015-05-08 15:56:57 (223 KB/s) - ‘www.webtipblog.com/bash-script-create-apache-virtual-hosts/index.html’ saved [80908]
+
+Removing www.webtipblog.com/bash-script-create-apache-virtual-hosts/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:57--  http://www.webtipblog.com/?p=545
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:57 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/managing-ios-network-activity-indicator/
+Location: http://www.webtipblog.com/managing-ios-network-activity-indicator/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:57--  http://www.webtipblog.com/managing-ios-network-activity-indicator/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:58 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=545>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:58--  http://www.webtipblog.com/managing-ios-network-activity-indicator/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:58 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=545>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/managing-ios-network-activity-indicator/index.html’
+
+     0K .......... .......... .......... .......... ..........  189K
+    50K .......... .......... .......... ....                   719K=0.3s
+
+2015-05-08 15:56:58 (270 KB/s) - ‘www.webtipblog.com/managing-ios-network-activity-indicator/index.html’ saved [86346]
+
+Removing www.webtipblog.com/managing-ios-network-activity-indicator/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:58--  http://www.webtipblog.com/?p=539
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:59 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/
+Location: http://www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:56:59--  http://www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:56:59 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=539>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:56:59--  http://www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=539>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/index.html’
+
+     0K .......... .......... ..                                114K=0.2s
+
+2015-05-08 15:57:00 (114 KB/s) - ‘www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/index.html’ saved [23042]
+
+Removing www.webtipblog.com/get-first-n-items-nsarray-objective-c-range/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:00--  http://www.webtipblog.com/?p=518
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:00 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/
+Location: http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:00--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:01 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:57:01--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:01 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html’
+
+     0K .......... .......... .......... .......                177K=0.2s
+
+2015-05-08 15:57:02 (177 KB/s) - ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html’ saved [38625]
+
+Removing www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:02--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/?replytocom=3074
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:02 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:57:02--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/?replytocom=3074
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:02 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html?replytocom=3074.html’
+
+     0K .......... .......... .......... .......                150K=0.3s
+
+2015-05-08 15:57:03 (150 KB/s) - ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html?replytocom=3074.html’ saved [38742]
+
+Removing www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html?replytocom=3074.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:03--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/?replytocom=3543
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:03 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:57:03--  http://www.webtipblog.com/include-javascript-css-drupal-form-using-attached/?replytocom=3543
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:04 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=518>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html?replytocom=3543.html’
+
+     0K .......... .......... .......... .......                183K=0.2s
+
+2015-05-08 15:57:04 (183 KB/s) - ‘www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html?replytocom=3543.html’ saved [38756]
+
+Removing www.webtipblog.com/include-javascript-css-drupal-form-using-attached/index.html?replytocom=3543.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:04--  http://www.webtipblog.com/scroll-to-an-element-with-anchor-id-after-loading-the-page-using-jquery/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:04 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=374>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:57:04--  http://www.webtipblog.com/scroll-to-an-element-with-anchor-id-after-loading-the-page-using-jquery/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:05 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=374>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/scroll-to-an-element-with-anchor-id-after-loading-the-page-using-jquery/index.html’
+
+     0K .......... .......... .......... .......... ..........  203K
+    50K ......                                                  138M=0.2s
+
+2015-05-08 15:57:05 (229 KB/s) - ‘www.webtipblog.com/scroll-to-an-element-with-anchor-id-after-loading-the-page-using-jquery/index.html’ saved [57720]
+
+Removing www.webtipblog.com/scroll-to-an-element-with-anchor-id-after-loading-the-page-using-jquery/index.html.
+
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:05--  http://www.webtipblog.com/?p=502
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 301 Moved Permanently
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:06 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Location: http://www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/
+Location: http://www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/ [following]
+Spider mode enabled. Check if remote file exists.
+--2015-05-08 15:57:06--  http://www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/
+Connecting to www.webtipblog.com|50.87.146.64|:80... connected.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:06 GMT
+  Content-Type: text/html; charset=UTF-8
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=502>; rel=shortlink
+Length: unspecified [text/html]
+Last-modified header missing -- time-stamps turned off.
+Remote file exists and could contain links to other resources -- retrieving.
+
+--2015-05-08 15:57:06--  http://www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/
+Reusing existing connection to www.webtipblog.com:80.
+HTTP request sent, awaiting response... 
+  HTTP/1.1 200 OK
+  Server: nginx/1.8.0
+  Date: Fri, 08 May 2015 20:57:07 GMT
+  Content-Type: text/html; charset=UTF-8
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  X-Pingback: http://www.webtipblog.com/xmlrpc.php
+  Link: <http://www.webtipblog.com/?p=502>; rel=shortlink
+Length: unspecified [text/html]
+Saving to: ‘www.webtipblog.com/order-mysql-query-user-defined-order-using-field-function/index.html’
+
+     0K .......... .......... .........

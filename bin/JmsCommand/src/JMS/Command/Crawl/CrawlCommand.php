@@ -32,6 +32,7 @@ class CrawlCommand extends Command
     const OPTION_REPORT_FILE = 'report-file';
     const OPTION_AUTH_URL = 'auth-url';
     const OPTION_AUTH_POST_DATA = 'auth-post-data';
+    const OPTION_DOMAINS = 'domains';
 
     /**
      * @var InputInterface
@@ -92,6 +93,12 @@ EOT
                 sprintf('Specify POST data to use to authenticate with if authentication is required. ex --%s="user=foo&password=bar" If this option is specified, the --%s option must also be used.',
                         self::OPTION_AUTH_POST_DATA, self::OPTION_AUTH_URL)
             )
+            ->addOption(
+                self::OPTION_DOMAINS,
+                null,
+                InputOption::VALUE_OPTIONAL,
+                'Specify domains to allow crawling, excluding the scheme/protocol, by default this is the domain of the starting URL. Specify multiple URLs using a comma-separated list'
+            )
         ;
     }
 
@@ -126,10 +133,17 @@ EOT
             ->setOption(Wget::RECURSIVE)
             ->setOption(Wget::LEVEL, 'inf')
             ->setOption(Wget::SPIDER)
-            // span hosts
-            // domains
-            ->run();
             ;
+
+        if ($this->getInput()->getOption(self::OPTION_DOMAINS)) {
+
+            $this->getWgetCommand()
+                ->setOption(Wget::SPAN_HOSTS)
+                ->setOption(Wget::DOMAINS, $this->getInput()->getOption(self::OPTION_DOMAINS));
+        }
+
+        $this->getWgetCommand()->run();
+
 /*
  wget
 --mirror
