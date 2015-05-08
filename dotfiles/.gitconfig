@@ -1,7 +1,7 @@
 [core]
 
     # Use custom `.gitignore` and `.gitattributes`
-    excludesfile = ~/.gitignore
+	excludesfile = /Users/joe/.gitignore_global
     attributesfile = ~/.gitattributes
 
     # Make `git rebase` safer on OS X

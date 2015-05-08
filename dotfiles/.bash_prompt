@@ -47,4 +47,4 @@ function git_info() {
 }
 
 
-PS1="\n${BOLD}${PURPLE} \@ ${GREEN}$USER${YELLOW}@${GREEN}\h  \[$RESET\]${MAGENTA}\w\$(git_info)\[$WHITE\]\n${BOLD}$ \[$RESET\]"
+PS1="\n${BOLD}${PURPLE} \@ ${GREEN}$USER${YELLOW}@${GREEN}\h  \[$RESET\]${MAGENTA}\w\$(git_info)\[$WHITE\]\n$ \[$RESET\]"
