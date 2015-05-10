@@ -16,6 +16,11 @@ namespace JMS\Shell;
 class Command
 {
     /**
+     * @var string
+     */
+    protected $bin;
+
+    /**
      * @var array
      */
     protected $options = [];
@@ -29,20 +34,48 @@ class Command
      * Run command
      *
      * @return string
+     * @throws \Exception if command not found
      */
     public function run()
     {
+        if (!$this->binExists()) {
+            throw new \Exception(sprintf('%s command not found', $this->getCommand()));
+        }
+
         return shell_exec($this->getCommand());
+    }
+
+    /**
+     * Bin exists on server
+     *
+     * @return bool
+     * @throws \Exception if bin not set
+     */
+    public function binExists()
+    {
+        $command = $this->getBin();
+        if (!$command) {
+            throw new \Exception('Binary not configured, no command to run');
+        }
+
+        $stdout = shell_exec("which $command");
+
+        return (empty($stdout) ? false : true);
     }
 
     /**
      * Get a formatted command using the options and arguments set
      *
      * @return string
+     * @throws \Exception if bin not set
      */
     public function getCommand()
     {
-        $command = 'wget';
+        $command = $this->getBin();
+        if (!$command) {
+            throw new \Exception('Binary not configured, no command to run');
+        }
+
         foreach ($this->getOptions() as $option => $value) {
 
             $command .= ' '.$option;
@@ -140,5 +173,28 @@ class Command
     public function addArgument($argument)
     {
         $this->arguments[] = $argument;
+    }
+
+    /**
+     * Get bin
+     *
+     * @return string
+     */
+    public function getBin()
+    {
+        return $this->bin;
+    }
+
+    /**
+     * Set bin
+     *
+     * @param string $bin
+     * @return Command
+     */
+    public function setBin($bin)
+    {
+        $this->bin = $bin;
+
+        return $this;
     }
 }

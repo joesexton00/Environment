@@ -17,15 +17,19 @@ class Wget extends Command
 {
     /** @see http://www.gnu.org/software/wget/manual/wget.html */
     const DOMAINS = '--domains';
+    const EXECUTE = '-e';
     const INPUT_FILE = '--input-file';
     const LEVEL = '--level';
     const LOAD_COOKIES = '--load-cookies';
     const OUTPUT_FILE = '--output-file';
+    const PAGE_REQUISITES = '--page-requisites';
     const POST_DATA = '--post-data';
     const RECURSIVE = '--recursive';
     const SAVE_COOKIES = '--save-cookies';
     const SPAN_HOSTS = '--span-hosts';
     const SPIDER = '--spider';
+
+    protected $bin = 'wget';
 
     /**
      * {@inheritdoc}
