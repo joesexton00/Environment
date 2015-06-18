@@ -29,7 +29,7 @@ class CrawlCommand extends Command
     const LOG_FILE = 'wget.out';
     const COOKIE_FILE = 'cookie.txt';
     const ARGUMENT_URL = 'URL';
-    const OPTION_REPORT_FILE = 'report-file';
+    const OPTION_LOG = 'log';
     const OPTION_AUTH_URL = 'auth-url';
     const OPTION_AUTH_POST_DATA = 'auth-post-data';
     const OPTION_DOMAINS = 'domains';
@@ -74,10 +74,10 @@ EOT
                 'Set seed URL to crawl, specify multiple URLs using a comma-separated list'
             )
             ->addOption(
-                self::OPTION_REPORT_FILE,
+                self::OPTION_LOG,
                 null,
                 InputOption::VALUE_OPTIONAL,
-                'Specify the report file location, default is crawl_report.txt'
+                sprintf('Specify the wget output file location, default is %s', $this->getLogFile())
             )
             ->addOption(
                 self::OPTION_AUTH_URL,
@@ -125,7 +125,7 @@ EOT
         $this->authenticate();
 
         // crawl using wget and save to cache file
-        $output->writeln(sprintf('Crawling %s', implode(', ', $this->seedUrls)));
+        $output->writeln(sprintf('Crawling %s using wget', implode(', ', $this->seedUrls)));
 
         $this->getWgetCommand()
             ->setOption(Wget::INPUT_FILE, $this->getInFile())
@@ -133,10 +133,11 @@ EOT
             ->setOption(Wget::RECURSIVE)
             ->setOption(Wget::LEVEL, 'inf')
             ->setOption(Wget::SPIDER)
+            ->setOption(Wget::PAGE_REQUISITES)
+            ->setOption(Wget::EXECUTE, 'robots=off')
             ;
 
         if ($this->getInput()->getOption(self::OPTION_DOMAINS)) {
-
             $this->getWgetCommand()
                 ->setOption(Wget::SPAN_HOSTS)
                 ->setOption(Wget::DOMAINS, $this->getInput()->getOption(self::OPTION_DOMAINS));
@@ -144,26 +145,11 @@ EOT
 
         $this->getWgetCommand()->run();
 
-/*
- wget
---mirror
---convert-links
---span-hosts
---adjust-extension
---page-requisites
---execute robots=off
---restrict-file-names=windows
---output-file=wget.log
---input-file=wget.in
---content-disposition
---domains=responsibility-project.libertymutual.com,projetoresponsabilidade.com.br,proyectoresponsabilidad.com.ve,proyectoresponsabilidad.com.ve,proyectoresponsabilidad.co,proyectoresponsabilidad.cl,proresponsabilidad.com.ar,cdn-liberty.yottaa.net
- */
-
-        // parse wget logs to find links, 404s
-        // crawl each page to find outbound links
-        // create report
-
         $this->cleanUp();
+
+        $output->writeln('');
+        $output->writeln(sprintf('<info>OK crawling completed successfully - wget output file located at %s</info>', realpath($this->getLogFile())));
+        $output->writeln('');
     }
 
     /**
@@ -194,8 +180,7 @@ EOT
      */
     public function cleanUp()
     {
-//        $this->clearCacheFile($this->getInFile());
-//        $this->clearCacheFile($this->getLogFile());
+        $this->clearCacheFile($this->getInFile());
         $this->clearCacheFile($this->getCookieFile());
     }
 
@@ -337,7 +322,11 @@ EOT
      */
     public function getLogFile()
     {
-        return __DIR__.self::CACHE_DIR.self::CACHE_SUBDIR.'/'.self::LOG_FILE;
+        if ($this->getInput() && $this->getInput()->getOption(self::OPTION_LOG)) {
+            return $this->getInput()->getOption(self::OPTION_LOG);
+        } else {
+            return __DIR__ . self::CACHE_DIR . self::CACHE_SUBDIR . '/' . self::LOG_FILE;
+        }
     }
 
     /**
