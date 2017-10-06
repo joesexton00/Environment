@@ -53,7 +53,7 @@ function git_info() {
 }
 
 function show_git_dirty_indicator() {
-    echo -e "*"
+    echo -e "⚡"
 }
 
 function remote_info() {
