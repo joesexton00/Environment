@@ -2,7 +2,7 @@
 export PATH="$HOME/bin:/Applications/PHPStorm.app/Contents/MacOS:$PATH";
 
 # Add public key to the ssh profile
-ssh-add
+ssh-add &> /dev/null
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
@@ -29,7 +29,7 @@ for option in autocd globstar; do
 done;
 
 # Add tab completion for many Bash commands
-if which brew > /dev/null && [ -f "$(brew --prefix)/etc/bash_completion" ]; then
+if which brew &> /dev/null && [ -f "$(brew --prefix)/etc/bash_completion" ]; then
     source "$(brew --prefix)/etc/bash_completion";
 elif [ -f /etc/bash_completion ]; then
     source /etc/bash_completion;
