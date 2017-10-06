@@ -47,9 +47,23 @@ function git_info() {
     branch=$(git symbolic-ref -q HEAD | sed -e 's|^refs/heads/||')
 
     # check if it's dirty (via github.com/sindresorhus/pure)
-    dirty=$(git diff --quiet --ignore-submodules HEAD &>/dev/null; [ $? -eq 1 ]&& echo -e "$(show_git_dirty_indicator)")
+    
+    dirty=""
+    if is_git_branch_dirty; then
+      dirty=$(show_git_dirty_indicator)
+    fi
+
+    #dirty=$(git diff --quiet --ignore-submodules HEAD &>/dev/null; [ $? -eq 1 ]&& echo -e "$(show_git_dirty_indicator)")
 
     echo $WHITE" git: "$YELLOW$branch$dirty
+}
+
+function is_git_branch_dirty() {
+    if [[ -n $(git status -s --ignore-submodules  &> /dev/null) ]]; then
+        return 1
+    fi
+
+    return 0
 }
 
 function show_git_dirty_indicator() {
