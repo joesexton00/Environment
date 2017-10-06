@@ -46,28 +46,11 @@ function git_info() {
     # quickest check for what branch we're on
     branch=$(git symbolic-ref -q HEAD | sed -e 's|^refs/heads/||')
 
-    # check if it's dirty (via github.com/sindresorhus/pure)
-    
-    dirty=""
-    if is_git_branch_dirty; then
-      dirty=$(show_git_dirty_indicator)
-    fi
-
-    #dirty=$(git diff --quiet --ignore-submodules HEAD &>/dev/null; [ $? -eq 1 ]&& echo -e "$(show_git_dirty_indicator)")
-
-    echo $WHITE" git: "$YELLOW$branch$dirty
-}
-
-function is_git_branch_dirty() {
-    if [[ -n $(git status -s --ignore-submodules  &> /dev/null) ]]; then
-        return 1
-    fi
-
-    return 0
+    echo $WHITE" git: "$YELLOW$branch$(show_git_dirty_indicator)
 }
 
 function show_git_dirty_indicator() {
-    echo -e "⚡"
+    echo -e "$(git diff --quiet --ignore-submodules HEAD &>/dev/null; [ $? -eq 1 ]&& echo -e "⚡")"
 }
 
 function remote_info() {
