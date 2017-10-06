@@ -5,6 +5,7 @@ cd "$(dirname "${BASH_SOURCE}")";
 function provisionDotFiles() {
 
     local bin_dir="$(myrealpath $(pwd)/../bin)";
+    local lib_dir="$(myrealpath $(pwd)/../lib)";
     local dotfiles_dir="$(myrealpath $(pwd)/../dotfiles)";
 
     for file in .{aliases,bash_profile,bash_prompt,bashrc,exports,functions,gitconfig,inputrc,wgetrc}; do
@@ -19,6 +20,9 @@ function provisionDotFiles() {
         echo "Linking ~/$file to $dotfiles_dir/$file"
         ln -s $dotfiles_dir/$file ~/$file
     done;
+
+    unlink ~/git-completion.bash
+    ln -s $lib_dir/git-completion.bash ~/git-completion.bash
 
     unset file;
 
