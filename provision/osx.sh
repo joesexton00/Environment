@@ -36,6 +36,10 @@ defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 # Avoid creating .DS_Store files on network volumes
 defaults write com.apple.desktopservices DSDontWriteNetworkStores -bool true
 
+# Set screenshots directory
+mkdir ~/Screenshots
+defaults write com.apple.screencapture location ~/Screenshots
+
 # Show the ~/Library folder
 chflags nohidden ~/Library
 
